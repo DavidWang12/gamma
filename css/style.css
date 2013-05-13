@@ -1,0 +1,64 @@
+body {
+	padding-top: 80px;
+}
+
+
+#logo {
+	font-weight: bold;
+	color: #02B1F2;
+}
+
+.hero-unit {
+
+}
+
+#searcher {
+	height: 40px;
+}
+
+.search {
+	text-align: center;
+}
+
+#login {
+	margin-bottom: 0px;
+	padding-top: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+/*   colors from findthebest   */
+.blue {
+	color: #02B1F2;
+}
+
+.gray {
+	color: #F6F6F6;
+}
+
+.black {
+	color: #4D4D4D;
+}
+
+.white {
+	color: #FFFFFF;
+}
+
+.green {
+	color: #A1CC46;
+}
+
+.red {
+	color: #E53D33;
+}
+
+.yellow {
+	color: #FFCC00;
+}
