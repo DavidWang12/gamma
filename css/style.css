@@ -6,6 +6,18 @@ body {
 #logo {
 	font-weight: bold;
 	color: #02B1F2;
+	color: #0080ff;
+	text-align: center;
+	margin: 0 auto;
+	vertical-align: middle;
+	position: absolute;
+	left: 50%;
+	margin-left: -80px;
+	background: url("../img/logo1.png") no-repeat scroll 0 0 transparent;
+	background-size: Auto 42px;
+	color: transparent;
+	height: 42px;
+	width: 120px;
 }
 
 .hero-unit {
