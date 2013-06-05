@@ -1,5 +1,5 @@
 body {
-	padding-top: 80px;
+	padding-top: 50px;
 }
 
 
@@ -26,6 +26,7 @@ body {
 
 #searcher {
 	height: 40px;
+	width: 400px;
 }
 
 .search {
@@ -42,9 +43,15 @@ p.small {
 	font-size: 60%;
 }
 
+#menu {
+	width: 100%;
+	margin: auto;
+}
 
-
-
+#slogan {
+	margin: auto;
+	text-align: center;
+}
 
 
 
